@@ -53,7 +53,7 @@
 			<td width="50%">
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
+					<a href='https://ainnocent.myshopify.com/' target="_blank">
 						<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_8dfd1a922e19ef6ffc78a2bbe094855c/shopify.png" alt="project 2" height="100%" />
 					</a>
 					<br>
@@ -67,7 +67,8 @@
 						</a>	
 					</p>
 					 <p><strong>CMS</strong></p>
-					<p>Shopify store using CMS</p>
+					<p>Shopify store using CMS
+																	       (password- Legend)</p>
 				</div>
         </tr>
 	    <tr>
