@@ -54,7 +54,7 @@
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
 					<a href='https://codingphase.com' target="_blank">
-						<img src="https://cdn.shopify.com/assets/images/logos/shopify-bag.png" alt="project 2" height="100%" />
+						<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_8dfd1a922e19ef6ffc78a2bbe094855c/shopify.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -75,7 +75,7 @@
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
                     <a href='https://codingphase.com' target="_blank">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png" alt="project 3" height="100%" />
+                        <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" />
                     </a>
                     <br>
                     <br>
