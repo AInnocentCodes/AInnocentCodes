@@ -75,7 +75,7 @@
             <td width="50%">
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
-                    <a href=https://ainnocent.shop/">
+                    <a href="https://ainnocent.shop/">
                         <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" height="100%" />
                     </a>
                     <br>
