@@ -31,13 +31,13 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href='https://cpcourse293696102.wordpress.com' target="_blank">
+					<a href="https://ainnocentlp.netlify.app/">
 						<img src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://ainnocentlp.netlify.app/" target="_blank">
+						<a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="https://codingphase.com" target="_blank">
@@ -46,14 +46,14 @@
 					</p>
 					<p><strong>HTML & CSS</strong></p>
           <p>
-						Landing Page using HTML & CSS
+					Landing Page using HTML & CSS
 					</p>
 				</div>
 			</td>
 			<td width="50%">
 				<h3 align="center">Project 2</h3>
 				<div align="center" >  
-					<a href='https://ainnocent.myshopify.com/' target="_blank">
+					<a href="https://ainnocent.myshopify.com/">
 						<img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_8dfd1a922e19ef6ffc78a2bbe094855c/shopify.png" alt="project 2" height="100%" />
 					</a>
 					<br>
@@ -66,9 +66,8 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
 					</p>
-					 <p><strong>CMS</strong></p>
-					<p>Shopify store using CMS
-																	       (password- Legend)</p>
+					 <p><strong>Shopify</strong></p>
+					<p>Shopify Store using CMS| Password-legend</p>
 				</div>
         </tr>
 	    <tr>
@@ -76,7 +75,7 @@
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
                     <a href="https://ainnocent.shop/">
-                        <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" height="100%" />
+                        <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -84,20 +83,19 @@
                         <a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://ainnocent.shop/" target="_blank">
+						<a href="https://codingphase.com" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><CMS</strong></p>
-		    <p>Services web page using Wordpress</p>
+                    <p><strong>Wordpress</strong></p>
+		    <p>Services website using Wordpress </p>
                 </div>
             </td>
             <td width="50%">
                 <h3 align="center">Project 4</h3>
                 <div align="center">  
                     <a href="https://ainnocent.com/">
-                        <img src="https://image.shutterstock.com/image-illustration/online-marketing-portfolio-icon-element-260nw-1376199170.jpg" height="100%"/>
-                     
+                        <img src="https://cdn-icons-png.flaticon.com/512/2344/2344655.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -109,11 +107,11 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
-                    <p>Portfolio</strong></p>
+                    <p><strong>Portfolio</strong></p>
 		    <p>Personal Portfolio Page</p>
                 </div>	
             </td>
-           </tr>
+        </tr>
 	</table>
 </div>
 <br />
