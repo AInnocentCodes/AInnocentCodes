@@ -75,8 +75,8 @@
             <td width="50%">
                 <h3 align="center">Project 3</h3>
                 <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" />
+                    <a href=https://ainnocent.shop/"_blank">
+                        <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" height="100%" />
                     </a>
                     <br>
                     <br>
@@ -96,7 +96,7 @@
                 <h3 align="center">Project 4</h3>
                 <div align="center">  
                     <a href="https://ainnocent.com/">
-                        <img src="https://image.shutterstock.com/image-illustration/online-marketing-portfolio-icon-element-260nw-1376199170.jpg"/>
+                        <img src="https://image.shutterstock.com/image-illustration/online-marketing-portfolio-icon-element-260nw-1376199170.jpg" height="100%"/>
                      
                     </a>
                     <br>
