@@ -18,6 +18,12 @@
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+		      
+		       <img src="https://www.kindpng.com/picc/m/184-1848961_google-analytics-png-google-analytics-logo-black-transparent.png" alt="Google Analytics" width="75" height="75"/>
+		       
+		        <img src="https://img.favpng.com/4/23/22/search-engine-optimization-digital-marketing-symbol-logo-local-search-engine-optimisation-png-favpng-748S2a3tJTyrjTtAGjK0YqDhm.jpg" alt="SEO" width="75" height="75"/>
+			
+			 <img src="https://img.favpng.com/5/17/20/xml-computer-icons-png-favpng-K2HRWGTM2tdJp9SjtSa9yjtmR.jpg" alt="XML" width="75" height="75"/>
                  
 </div>
 
