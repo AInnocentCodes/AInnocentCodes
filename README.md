@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdRo7Z-K0AGBGsirfaMJgqNuF5cupj2ikQHA&usqp=CAU"100%"/>
+  <img src="https://previews.123rf.com/images/bearsky23/bearsky231905/bearsky23190500079/122242445-email-marketing-campaigns-icon-set-web-header-banner.jpg"/>
 </div>
 <h1 align="center">Hello Everyone 👋, Alantz Innocent</h1>
 <h3 align="center">A HTML Email Developer from Deerfield Beach, Florida</h3>
@@ -18,9 +18,10 @@
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain-wordmark.svg" alt="css3" width="75" height="75"/>
-		      <img src="https://cdn.iconscout.com/icon/free/png-256/xml-file-2330558-1950399.png" alt="html5" width="75" height="75"/>
-		<img src="https://miro.medium.com/max/1400/1*-ExxDAPl4rciaENKd8QSBw.png" alt="html5" width="75" height="75"/>
-	   <img src="https://www.lawnandlandscape.com/fileuploads/publications/1/issues/103620/articles/images/SEO_MAIN_IMAGE_fmt.png" alt="html5" width="75" height="75"/>
+			     <img src="https://cdn-icons-png.flaticon.com/512/2165/2165310.png" alt="css3" width="75" height="75"/>
+			    
+			
+		    
 																	   </div>
 
 <br>
