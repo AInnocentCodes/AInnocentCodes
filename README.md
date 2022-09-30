@@ -113,7 +113,8 @@
                     <p><strong>Portfolio</strong></p>
 		    <p>Personal Portfolio Page</p>
                 </div>	
-            </td>
+		    </td>
+            </td width="50%">
         </tr>
 	</table>
 </div>
