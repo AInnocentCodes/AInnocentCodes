@@ -2,8 +2,8 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdRo7Z-K0AGBGsirfaMJgqNuF5cupj2ikQHA&usqp=CAU"100%"/>
 </div>
 <h1 align="center">Hello Everyone 👋, Alantz Innocent</h1>
-<h3 align="center">A web producer from Deerfield Beach, Florida</h3>
-<h4 align="center">Hey everyone, my name is Alantz Innocent, a web producer based out of Florida. I currently am a web producer/content editor, with a passion for web development. My current areas of specialization are with HTML, CSS and CMS. My ultimate goal is to eventually become a full stack web developer.</h4>
+<h3 align="center">A HTML Email Developer from Deerfield Beach, Florida</h3>
+<h4 align="center">Hey everyone, my name is Alantz Innocent, an HTML Email Developer based out of Florida. I currently am a HTML Email Developer, with a passion for web development as well as email marketing. My current areas of specialization are with HTML, CSS, CMS. Also specialize the use of email applications such as Mailchimp and ConvertKit.. My ultimate goal is to eventually become a Email Marketing Specialist.</h4>
 
 <hr>
 
