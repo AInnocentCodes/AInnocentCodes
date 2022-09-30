@@ -34,8 +34,8 @@
 			<td width="50%">
 				<h3 align="center">Project 1</h3>
 				<div align="center">  
-					<a href="https://ainnocentlp.netlify.app/">
-						<img src="https://miro.medium.com/max/792/1*lJ32Bl-lHWmNMUSiSq17gQ.png" alt="project 1" height="100%" />
+					<a href="https://crafty-musician-9786.ck.page/91457da905">
+						<img src="https://media.convertkit.com/2021/12/r0cUxsx6-convertkit-logomark-red.jpg?auto=format&ixlib=php-3.3.1" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
@@ -47,9 +47,9 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
-					<p><strong>HTML & CSS</strong></p>
+					<p><strong>ConvertKit</strong></p>
           <p>
-					Landing Page using HTML & CSS
+					Landing Page using Email Application ConvertKit
 					</p>
 				</div>
 			</td>
